@@ -11,4 +11,17 @@ The way to work and the functionality is very simple,
   4.- The Album of this Artist plays and the music appears :) (YEAH!!!!!!!!!)
   5.- Change the disquette and repeat the process :) :).
     
-The steps to configure this are, very simple and tested on Raspberry PI 3B
+The BOM:
+	* 1 Raspberry Pi 3 B (Tested and working)
+	* 3 leds (Red, Yellow and Green)
+	* 3 resistors:
+			* Red led --> 301
+			* Yellow led --> 221
+			* Green led --> 47R0
+	* 6 Dupont cables
+	* 1 Push Button
+	* 1 External Diskette Drive (USB Connected)
+	* 1 BT transmitter and Jack cable (male To male)
+	* A lot of illusion to learn ;)
+
+The steps to configure this, are very simple and tested on Raspberry PI 3B
