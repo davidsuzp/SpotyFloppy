@@ -5,11 +5,12 @@ Finally I decided to create my own project with a physical interaction and reusi
 The idea was to reuse my old collection (hundreds) of Disks 2HD 1.44 Mb and useless as of today
 
 The way to work and the functionality is very simple, 
-  1.- To store, specific information in a disquette (Artist, Album and a couple of things more
-  2.- Push a button to start the process
-  3.- Wait a couple of seconds and.....
-  4.- The Album of this Artist plays and the music appears :) (YEAH!!!!!!!!!)
-  5.- Change the disquette and repeat the process :) :).
+ 1. To store, specific information in a disquette (Artist, Album and a couple of things more
+ 2. Push a button to start the process
+ 3. Wait a couple of seconds and.....
+ 4. The Album of this Artist plays and the music appears :) (YEAH!!!!!!!!!)
+ 5. Change the disquette and repeat the process :) :).
+
     
 The BOM:
  - 1 Raspberry Pi 3 B (Tested and working) 
