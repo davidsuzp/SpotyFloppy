@@ -1,6 +1,10 @@
 # SpotyFloppy
-A simple project to connect your Raspberry and a Floppy Disk attached (USB) with a Spotify subscription, reviewing on Internet, appears several projects like this, https://www.dinofizzotti.com/blog/2020-02-05-diskplayer-using-3.5-floppy-disks-to-play-albums-on-spotify/, an excellent starting point to understand and to discover the options.
+A simple project to connect your Raspberry and a Floppy Disk attached (USB) with a Spotify subscription.
+
+Reviewing on Internet, appears several projects like this, https://www.dinofizzotti.com/blog/2020-02-05-diskplayer-using-3.5-floppy-disks-to-play-albums-on-spotify/, an excellent starting point to understand and to discover the different options and possibilities.
+
 Finally I decided to create my own project with a physical interaction and reusing the GPIOs of the Raspberry.
+In fact the idea was to create a solution based on incremental iterations in order to add little steps and learning from programming to configuration and electronics.
 
 The idea was to reuse my old collection (hundreds) of Disks 2HD 1.44 Mb and useless as of today
 
